@@ -9838,3 +9838,8 @@ h6 {
   padding: 0;
   list-style-type: none;
 }
+
+.intro-element {
+  background-color: #181818;
+  display: inline;
+}
