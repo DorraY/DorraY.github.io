@@ -9843,3 +9843,9 @@ h6 {
   background-color: #181818;
   display: inline;
 }
+
+.card-img-language {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
