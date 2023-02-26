@@ -6104,7 +6104,7 @@ a.close.disabled {
 
 .carousel-inner {
   position: relative;
-  width: 100%;
+  width: 350px;
   overflow: hidden;
 }
 
@@ -9848,4 +9848,11 @@ h6 {
   height: 200px;
   width: 100%;
   object-fit: cover;
+}
+
+.work-sample-img {
+  height: 100%;
+  width: 350px;
+  object-fit: cover;
+  align-content: center;
 }
